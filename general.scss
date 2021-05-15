@@ -1,0 +1,13 @@
+//variables.scss
+@import "variables";
+//header.scss
+@import "header";
+//footer.scss
+@import "footer";
+
+body {
+  background-color: var(--naranja);
+}
+h1 {
+  color: white;
+}
